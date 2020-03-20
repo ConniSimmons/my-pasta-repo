@@ -1,18 +1,43 @@
 div {
-    background-image: url(https://www.featurepics.com/StockImage/20110303/pasta-background-stock-image-1805754.jpg); 
-    background-color: rgba(255,255,255,0.6);
+    background-image: url(https://www.featurepics.com/StockImage/20110303/pasta-background-stock-image-1805754.jpg);
+    background-color: rgba(255, 255, 255, 0.6);
     background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
+
+h1 {
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 50px;
+}
+
+p {
+    "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-weight: bold;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+article {
+    text-align: center;
+    font-size: 35px;
+}
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
-  }
+    width: 38%;
+}
 
 img {
     opacity: 0.7;
-  }
+}
 
 
 
