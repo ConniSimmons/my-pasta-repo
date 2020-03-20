@@ -14,8 +14,8 @@ h1 {
 }
 
 p {
-    "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    font-weight: bold;
+    font-family: Sans-Serif;
+    font-weight: 550;
     text-align: justify;
     text-justify: inter-word;
     margin-top: 0px;
@@ -28,6 +28,10 @@ p {
 article {
     text-align: center;
     font-size: 35px;
+}
+
+footer {
+    font-size: 20px;
 }
 
 .center {
